@@ -120,6 +120,7 @@ public static class SharpZibLibUtility
             EditorApplication.update -= Update;
             curIndex = 0;
             upt = null;
+            Moving = false;
             EditorApplication.UnlockReloadAssemblies();
             Debug.Log("Importing process has been finished!");
             File.Delete(Path.Combine(Application.dataPath, "standardAssets.txt"));
