@@ -16,3 +16,7 @@ The purpouse of it, is avoid include unnecesary files when you create a .unitypa
 
 - If you don't have one listed packages on your hdd, the package won't be installed.
 - You can't include your own unitypackages because it's only allowed to use the one that are in your Unity folder installation path. *Maybe in next updates it will be allowed.
+
+Asset link: https://www.assetstore.unity3d.com/#!/content/xxx
+
+Team website: http://lerp2dev.com/
